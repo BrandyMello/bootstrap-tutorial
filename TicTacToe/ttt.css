@@ -1,0 +1,43 @@
+td {  
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+}
+
+h1 {
+  text-align: center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+.topR {
+  border-top: none;
+}
+
+.bottomR {
+  border-bottom: none;
+}
+
+.left {
+  border-left: none;
+}
+
+.right {
+  border-right: none;
+}
+
+.center {
+  border-right: none;
+  border-left: none;
+}
+
+.centerR {
+  border-top: none;
+  border-bottom: none;
+}
+
+.centerC {
+  border: none;
+}

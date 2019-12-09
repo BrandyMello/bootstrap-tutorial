@@ -1,0 +1,15 @@
+p {
+  /*Border*/
+  border: 2px solid blue;
+
+  /*Content width and height*/
+  /*percent of parent*/
+  width: 50%;
+
+  /*Padding*/
+  padding: 10px;
+
+  /*Margin*/
+  /*margin: 20px 40px 500px 100px;*/
+  margin: 10px auto;
+}
