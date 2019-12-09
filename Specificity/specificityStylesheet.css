@@ -1,0 +1,32 @@
+/*ul {
+  color: purple;
+}*/
+
+body {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+ul {
+  color: blue;
+}
+
+/*cascading inheritance*/
+
+/*specificity*/
+
+#special {
+  color: pink;
+}
+
+.highlight {
+  color: yellow;
+}
+
+li {
+  color: orange;
+}
+
