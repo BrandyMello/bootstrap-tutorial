@@ -1,0 +1,38 @@
+/*border color: #BDC3C7
+date color: #3498db
+h2 color: #2C3E50
+
+font: source sans pro*/
+
+body {
+  border: 1em solid #BDC3C7;
+  font-family: 'Source Sans Pro';
+  margin: 20px auto;
+  max-width: 700px;
+  padding: 20px;
+  width: 80%;
+}
+
+time {
+  color: #3498DB;
+  letter-spacing: .5em;
+  text-transform: uppercase;
+}
+
+h2 {
+  color: #2C3E50;
+  font-weight: 700;
+}
+
+hr.hr-style {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(189, 195, 199), rgba(0, 0, 0, 0));
+    border-color: #BDC3C7;
+    margin: 20px;
+}
+
+article p:nth-of-type(1) {
+  border-left: .3em solid #BDC3C7;
+  padding-left: 10px;
+}
